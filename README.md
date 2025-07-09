@@ -1,4 +1,4 @@
-# The SuperOrbital Interview Candidate Experience Extraordinaire!
+# The Mogo Interview Candidate Experience Extraordinaire!
 
 First, thank you for wanting to work with us and for lending us your time to work through this exercise.
 
