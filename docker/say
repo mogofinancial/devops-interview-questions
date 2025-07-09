@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+import click
+
+@click.command()
+@click.argument('name')
+def hello(name):
+    filename = name + '.txt'
+    contents = open(filename).read()
+    click.echo(contents)
+
+
+if __name__ == '__main__':
+    hello()
