@@ -6,10 +6,10 @@ We've tried hard to model these exercises after normal work you'll expect to per
 
 ## Rules of Engagement
 
-1. You have 24 hours to return your answers to us.
-2. You're free to use any resources you find on the internet.  That includes documentation, tools and anything you'd likely have access to while on the job.
-3. HOWEVER!  Please don't dial a friend.  You won't be able to bring another
-   person into an engagement, so please don't do so now.
+1. You have 1hr to finish as much of these scenarios as you can.
+2. You can use whatever tools you normally use in your day-to-day. Yes that means
+   chatgpt/claude or whatever AI tool you normally use. But we will be asking 
+   in-depth follow up questions on why certain decisions would be made.
 
 ## Exercises
 

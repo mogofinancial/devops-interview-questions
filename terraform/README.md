@@ -11,7 +11,7 @@ configuration in the `base` directory and create the resources.
 
 ## First Task
 
-The `random_pet` resource also supports a prefix option.  Add that to the
+The `random_pet` resource should also support a prefix option.  Add that to the
 module (defaulting to "Mister") and make use of it in our _base_ configuration,
 so that _our_ pet name starts with Doctor.  It'll be adorable!
 
