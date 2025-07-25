@@ -10,7 +10,7 @@ RUN apt-get update
 RUN apt-get install -yq python3
 RUN apt-get install -yq python3-pip
 
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r requirements.txt --break-system-packages
 
 ENV DEBIAN_FRONTEND="noninteractive"
 ENV TZ=America/New_York
@@ -18,6 +18,6 @@ ENV TZ=America/New_York
 RUN apt-get install -yq nano
 RUN apt-get install -yq vim
 
-ENV LANG C.UTF-8
+ENV LANG=C.UTF-8
 
 CMD ["/app/say"]
